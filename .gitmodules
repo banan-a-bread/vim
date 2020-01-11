@@ -1,3 +1,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = https://github.com/tpope/vim-sensible
+[submodule "bundle/wakatime"]
+	path = bundle/wakatime
+	url = https://github.com/wakatime/vim-wakatime.git
