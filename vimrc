@@ -1,5 +1,7 @@
 call pathogen#infect()
 call pathogen#helptags()
+colorscheme gruvbox
+let g:gruvbox_contrast_dark = 'hard'
 syntax on
 filetype plugin indent on
 
