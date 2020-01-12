@@ -4,3 +4,6 @@
 [submodule "bundle/wakatime"]
 	path = bundle/wakatime
 	url = https://github.com/wakatime/vim-wakatime.git
+[submodule "bundle/go"]
+	path = bundle/go
+	url = https://github.com/fatih/vim-go.git
