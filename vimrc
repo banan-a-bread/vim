@@ -15,3 +15,9 @@ map <left> :echo 'USE h instead'<CR>
 map <right> :echo 'USE l instead'<CR>
 map <up> :echo 'USE j instead'<CR>
 map <down> :echo 'USE k instead'<CR>
+
+let g:go_highlight_types = 1
+let g:go_highlight_fields = 1
+let g:go_highlight_functions = 1
+let g:go_highlight_function_calls = 1
+
