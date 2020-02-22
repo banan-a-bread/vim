@@ -14,3 +14,6 @@
 	path = bundle/gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags.git
 	ignore = untracked
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
