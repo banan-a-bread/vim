@@ -15,6 +15,8 @@ set hlsearch
 
 set statusline+=%{gutentags#statusline()}
 
+set noshowmode
+
 map <left> :echo 'USE h instead'<CR>
 map <right> :echo 'USE l instead'<CR>
 map <up> :echo 'USE j instead'<CR>
