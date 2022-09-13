@@ -33,3 +33,6 @@ let g:go_highlight_function_calls = 1
 let mapleader = ","
 nnoremap <Leader>n :NERDTreeFocus<CR>
 nnoremap <Leader>f :NERDTreeToggle<CR>
+
+map <Leader>h :noh<CR> " turn off search highlight
+
