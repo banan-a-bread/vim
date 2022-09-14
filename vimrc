@@ -37,8 +37,9 @@ nnoremap <Leader>f :NERDTreeToggle<CR>
 " turn off search highlight
 map <Leader>h :noh<CR>
 
-" fzf ag search shortcut
+" fzf ag search shortcut. Good to use for searching inside files
 nnoremap <C-g> :Ag<CR>
-" fzf git files shortcut
+" fzf git files shortcut. Search only in files that Git knows about.
+" disclaimer: at least staged will be shown only
 nnoremap <C-p> :GFiles<CR>
 

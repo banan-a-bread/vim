@@ -10,3 +10,8 @@
 
 ### Misc
 * Vim version: Vim 8.0.1453 (because of vim-go, and gutentags)
+
+### Useful commands
+* :Commits - git log with fzf
+* :Gfiles - search in files that git knows about
+* :Ag - search inside files
