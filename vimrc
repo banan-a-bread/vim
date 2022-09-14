@@ -34,8 +34,11 @@ let mapleader = ","
 nnoremap <Leader>n :NERDTreeFocus<CR>
 nnoremap <Leader>f :NERDTreeToggle<CR>
 
-map <Leader>h :noh<CR> " turn off search highlight
 " turn off search highlight
 map <Leader>h :noh<CR>
 
+" fzf ag search shortcut
+nnoremap <C-g> :Ag<CR>
+" fzf git files shortcut
+nnoremap <C-p> :GFiles<CR>
 
