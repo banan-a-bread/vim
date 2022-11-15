@@ -36,6 +36,7 @@ nnoremap <Leader>f :NERDTreeToggle<CR>
 
 " turn off search highlight
 map <Leader>h :noh<CR>
+map <Leader>n :set invnumber<CR>
 
 " fzf ag search shortcut. Good to use for searching inside files
 nnoremap <C-g> :Ag<CR>
