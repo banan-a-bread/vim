@@ -15,3 +15,6 @@
 * :Commits - git log with fzf
 * :Gfiles - search in files that git knows about
 * :Ag - search inside files
+
+### Adding a new vim module
+git submodule add <git-repo-url> bundle/<bundle-name>
